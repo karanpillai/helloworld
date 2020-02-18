@@ -1,0 +1,7 @@
+git clone https://github.com/karanpillai/helloworld
+
+git add test.txt      //locally folder banao and then add it to your github server
+
+git commit -m "first commit" test.txt
+
+git push -u origin master
